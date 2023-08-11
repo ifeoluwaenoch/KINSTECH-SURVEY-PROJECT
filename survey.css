@@ -1,0 +1,38 @@
+.sur-question{
+    border: black solid 1px;
+    border-radius: 5px;
+    width: 640px;
+    height: 200px;
+    box-shadow: 2px 2px 2px 2px grey;
+    margin: 15%;
+    margin-left: 300px;
+    }
+select {
+    width: 75%;
+    margin-left: 30px;
+    margin-bottom: 20px;
+}
+
+.sur-question h2 {
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+.sur-question button {
+    margin-left: 400px;
+    background-color: teal;
+    color: white;
+    width: 200px; 
+    height: 30px;
+    border-radius: 05px;
+    cursor: pointer;
+}
+
+.sur-question button:hover {
+    background-color: white;
+     color: teal;
+     transition: ease-in 1.5s;
+} 
+
+
+
